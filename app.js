@@ -10,7 +10,7 @@ APP.CONSTS = {
   South:     "South",
   West:      "West",
   DefaultBounds: 15,
-  DefaultObstacles: 1
+  DefaultObstacles: 15
 };
 
 APP.DIRECTIONS = [
